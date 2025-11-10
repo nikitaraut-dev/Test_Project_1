@@ -1,5 +1,5 @@
 public class Demo{
 public static void sayHello() {
-        System.debug(' Check Test 2 !');
+        System.debug(' Check Test 1 !');
     }
 }
